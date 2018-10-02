@@ -7,4 +7,6 @@
    void maximum(int t[])
    
 
-{% highlight bash %} Le code dans la ligne a des guillemets arrière autour de lui. {% endhighlight %}
+```php
+Le code dans la ligne a des guillemets arrière autour de lui.
+'''php
