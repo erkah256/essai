@@ -7,6 +7,6 @@
    void maximum(int t[])
    
 
-```php
+```bash
 Le code dans la ligne a des guillemets arrière autour de lui.
 ```
