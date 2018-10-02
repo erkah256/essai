@@ -7,8 +7,9 @@
 
    
 
-```bash
-   Rudy@Hermes MINGW64 /d/masterCCI/Toto
+```sh
+
+Rudy@Hermes MINGW64 /d/masterCCI/Toto
 $ mkdir bob
 
 Rudy@Hermes MINGW64 /d/masterCCI/Toto
