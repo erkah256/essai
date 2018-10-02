@@ -9,4 +9,4 @@
 
 ```php
 Le code dans la ligne a des guillemets arrière autour de lui.
-'''php
+```
